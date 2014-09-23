@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tue1
+#
+
+projectname: tue1
+vendorid: com.silva.example
+mainmodule: com.silva.example.tue1
